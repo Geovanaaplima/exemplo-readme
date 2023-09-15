@@ -1,5 +1,5 @@
 # Projeto - Como escrever um README file
-![tela do sistema](img/captura de tela 2023-09-15 074335.PNG)
+![tela do sistema](img.png)
 Fizemos esse projeto para poder entender melhor como escrever um README
 
 # Começando 
